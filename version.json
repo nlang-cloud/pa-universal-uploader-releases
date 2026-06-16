@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.0/PaUniversalUploader-0.1.0.zip",
-    "notes": "First release. DVIDS API uploads, AFPIMS draft + record mode, macOS app bundle with in-app updates."
+    "version": "0.1.1",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.1/PaUniversalUploader-0.1.1.zip",
+    "notes": "UI polish: centered the header unit chip + ? button, and the Help dialog's Close / Copy / Email buttons."
 }
