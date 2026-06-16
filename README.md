@@ -10,3 +10,6 @@ The app checks `version.json` on launch and from its **?** menu, then downloads 
 matching release asset and installs it. It pulls updates from here and nowhere else.
 
 Questions? nathan.langston.2@us.af.mil
+
+
+AFPIMS currently does not work due to no available API.
