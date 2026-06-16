@@ -1,5 +1,6 @@
 {
-    "version": "0.1.2",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.2/PaUniversalUploader-0.1.2.zip",
-    "notes": "New app icon; cleaned up the window title (app name only)."
+    "version": "0.1.4",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.4/PaUniversalUploader-0.1.4.zip",
+    "sha256": "d1d9df00fe335881ea5c0e6c69f7ce6d3aeb089fdb81e67d2b14360e4295ba26",
+    "notes": "v0.1.4: Smaller install (~114 MB; removed the unused browser engine), hardened auto-update (HTTPS-only + SHA-256 integrity check before installing), and ~50 reliability and correctness fixes from a full code review (uploads, VIRIN handling, sign-in token safety, document parsing, settings safety). Setup steps corrected: register http://oauth.localhost as the redirect URL, and upload access is granted by your unit."
 }
