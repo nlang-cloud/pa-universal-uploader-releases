@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.1/PaUniversalUploader-0.1.1.zip",
-    "notes": "UI polish: centered the header unit chip + ? button, and the Help dialog's Close / Copy / Email buttons."
+    "version": "0.1.2",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.2/PaUniversalUploader-0.1.2.zip",
+    "notes": "New app icon; cleaned up the window title (app name only)."
 }
