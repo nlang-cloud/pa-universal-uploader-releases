@@ -1,6 +1,6 @@
 {
-    "version": "0.1.4",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.4/PaUniversalUploader-0.1.4.zip",
-    "sha256": "d1d9df00fe335881ea5c0e6c69f7ce6d3aeb089fdb81e67d2b14360e4295ba26",
-    "notes": "v0.1.4: Smaller install (~114 MB; removed the unused browser engine), hardened auto-update (HTTPS-only + SHA-256 integrity check before installing), and ~50 reliability and correctness fixes from a full code review (uploads, VIRIN handling, sign-in token safety, document parsing, settings safety). Setup steps corrected: register http://oauth.localhost as the redirect URL, and upload access is granted by your unit."
+    "version": "0.1.5",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.5/PaUniversalUploader-0.1.5.zip",
+    "sha256": "7132a3024a3bf9e3a8ff7bda28ad0a35034be6de1d303b05dd1295e88efbcd37",
+    "notes": "Choose Photos Only at 01, select photos on 03 Images, and upload from 04 Submit\u2014no document required.\nEdit captions in-app; shared metadata now autosaves for future uploads.\nDocument imports are more flexible, and review exports include city, state, country, and date."
 }
