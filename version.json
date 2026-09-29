@@ -1,6 +1,6 @@
 {
-    "version": "0.1.9",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.9/PaUniversalUploader-0.1.9.zip",
-    "sha256": "1583cf43eacab540cc8228168074a8599aabbf8123ca695de6f7e6c2c130d387",
-    "notes": "Optional app password in the ? menu, with a login reset that clears saved API keys and DVIDS sign-in.\nRefreshed macOS interface with shared details consolidated in 04 Submit.\nImproved Word and PDF imports for wrapped text, metadata rows, and content controls."
+    "version": "0.1.10",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.10/PaUniversalUploader-0.1.10.zip",
+    "sha256": "2cd7c2086393bc7d9d02fbccde0d62918e633c50c4362a2264cddcf36ef99e6a",
+    "notes": "The upper-right group now comes from your authorized DVIDS groups, with a dropdown when multiple groups are available.\nPhotos and stories upload to the selected group, with access rechecked before each upload."
 }
