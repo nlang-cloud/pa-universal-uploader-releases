@@ -1,6 +1,6 @@
 {
-    "version": "0.1.10",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.10/PaUniversalUploader-0.1.10.zip",
-    "sha256": "2cd7c2086393bc7d9d02fbccde0d62918e633c50c4362a2264cddcf36ef99e6a",
-    "notes": "The upper-right group now comes from your authorized DVIDS groups, with a dropdown when multiple groups are available.\nPhotos and stories upload to the selected group, with access rechecked before each upload."
+    "version": "0.1.18",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.18/MacOS-DVIDSHub-Uploader-0.1.18.zip",
+    "sha256": "61d989bd6eb2e835571871e3a9216f1aa9e495d43fc6f945973f1fa663f3b045",
+    "notes": "Renamed to MacOS DVIDSHub Uploader. Fixes fresh DVIDS sign-in using http://oauth.localhost, preserves saved connections, and improves setup, review documents, and toolbar layout."
 }
