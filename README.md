@@ -1,14 +1,12 @@
-# PA Universal Uploader — Releases
+# MacOS DVIDSHub Uploader — Releases
 
-Public distribution channel for **PA Universal Uploader** (macOS). The application
-**source code is private**; this repo holds only:
+Public downloads and update manifests for **MacOS DVIDSHub Uploader**.
+The application source repository is private. This repository contains:
 
-- `version.json` — the manifest the app polls for updates.
-- Release assets — the downloadable `.app` zips.
+- `version.json` — the manifest installed apps use to find updates.
+- [Releases](https://github.com/nlang-cloud/pa-universal-uploader-releases/releases) — downloadable macOS app packages.
 
-The app checks `version.json` on launch, then downloads the
-matching release asset and installs it.
+The repository address remains stable for existing installations. Earlier
+release packages may use the previous app name, PA Universal Uploader.
 
 Questions? nathan.langston.2@us.af.mil
-
-AFPIMS currently does not work due to no available API.
