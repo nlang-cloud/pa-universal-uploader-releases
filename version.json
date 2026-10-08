@@ -1,6 +1,6 @@
 {
-    "version": "0.1.18",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.1.18/MacOS-DVIDSHub-Uploader-0.1.18.zip",
-    "sha256": "61d989bd6eb2e835571871e3a9216f1aa9e495d43fc6f945973f1fa663f3b045",
-    "notes": "Renamed to MacOS DVIDSHub Uploader. Fixes fresh DVIDS sign-in using http://oauth.localhost, preserves saved connections, and improves setup, review documents, and toolbar layout."
+  "version": "0.2.1",
+  "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.1/MacOS-DVIDSHub-Uploader-0.2.1.zip",
+  "sha256": "27ff046fe076b7b095b4ec637277e9a6a40c1e2d317d750c6d41cdb638f84738",
+  "notes": "Photos and stories upload together: attach a story document and its text from the dateline to -30- becomes the news story. Typed details now save into your photo files, and the app reopens a submission you haven't uploaded. Uploads show a summary before anything is sent, photos reorder by dragging, and errors link to their fields."
 }
