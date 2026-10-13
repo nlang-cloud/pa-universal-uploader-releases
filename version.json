@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.2/MacOS-DVIDSHub-Uploader-0.2.2.zip",
-  "sha256": "9484b365954db4506ad97100c231f569caf6a34b73b9b369cf824e25f0269330",
-  "notes": "Each photo in 03 Photos can have its own headline; a blank one uses the headline in 04 Submit. Credit (the DVIDS author, e.g. Langston, Nathan) and Caption writer (rank and name, e.g. Senior Airman Nathan Langston) are now separate fields."
+    "version": "0.2.3",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.3/MacOS-DVIDSHub-Uploader-0.2.3.zip",
+    "sha256": "6a63b94d64888efaa482f55afef21fcab39d3b9a744278c14ef4f1f9dbff7889",
+    "notes": "Photos now slide into place when reordered: drag a card's handle and the others make room, and Move up, Move down, adding, and removing all animate. Tabs, messages, dropdowns, and dialogs ease in; macOS Reduce motion turns animations off. Choosing files no longer keeps the app busy in the background."
 }
