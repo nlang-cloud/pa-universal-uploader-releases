@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.1/MacOS-DVIDSHub-Uploader-0.2.1.zip",
-  "sha256": "27ff046fe076b7b095b4ec637277e9a6a40c1e2d317d750c6d41cdb638f84738",
-  "notes": "Photos and stories upload together: attach a story document and its text from the dateline to -30- becomes the news story. Typed details now save into your photo files, and the app reopens a submission you haven't uploaded. Uploads show a summary before anything is sent, photos reorder by dragging, and errors link to their fields."
+  "version": "0.2.2",
+  "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.2/MacOS-DVIDSHub-Uploader-0.2.2.zip",
+  "sha256": "9484b365954db4506ad97100c231f569caf6a34b73b9b369cf824e25f0269330",
+  "notes": "Each photo in 03 Photos can have its own headline; a blank one uses the headline in 04 Submit. Credit (the DVIDS author, e.g. Langston, Nathan) and Caption writer (rank and name, e.g. Senior Airman Nathan Langston) are now separate fields."
 }
