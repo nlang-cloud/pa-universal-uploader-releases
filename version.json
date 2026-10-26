@@ -1,6 +1,6 @@
 {
-    "version": "0.2.4",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.4/MacOS-DVIDSHub-Uploader-0.2.4.zip",
-    "sha256": "06c193963e25d22ca2ef5cb54c0ec1dedc1f726367ea008268669788dc5420ea",
-    "notes": "Add videos alongside photos in 03 Media: each needs a category and a description, with optional Send to YouTube and a Production ID for video productions. Videos upload in parts, so a dropped connection resends only one part, and a video can be the story's lead."
+    "version": "0.2.5",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.5/MacOS-DVIDSHub-Uploader-0.2.5.zip",
+    "sha256": "08a56142fc5f19517df51af3b5cfe35ac2e23947ef3feb08a41619dd712dc600",
+    "notes": "Add videos alongside photos in 03 Media: each needs a category and a description, with optional Send to YouTube and a Production ID for video productions. Videos upload in parts, so a dropped connection resends only one part. The Caption writer example now shows a generic rank and name."
 }
