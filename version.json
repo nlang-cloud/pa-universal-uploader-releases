@@ -1,6 +1,6 @@
 {
-    "version": "0.2.3",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.3/MacOS-DVIDSHub-Uploader-0.2.3.zip",
-    "sha256": "6a63b94d64888efaa482f55afef21fcab39d3b9a744278c14ef4f1f9dbff7889",
-    "notes": "Photos now slide into place when reordered: drag a card's handle and the others make room, and Move up, Move down, adding, and removing all animate. Tabs, messages, dropdowns, and dialogs ease in; macOS Reduce motion turns animations off. Choosing files no longer keeps the app busy in the background."
+    "version": "0.2.4",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.4/MacOS-DVIDSHub-Uploader-0.2.4.zip",
+    "sha256": "06c193963e25d22ca2ef5cb54c0ec1dedc1f726367ea008268669788dc5420ea",
+    "notes": "Add videos alongside photos in 03 Media: each needs a category and a description, with optional Send to YouTube and a Production ID for video productions. Videos upload in parts, so a dropped connection resends only one part, and a video can be the story's lead."
 }
