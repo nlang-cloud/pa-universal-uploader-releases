@@ -1,12 +1,12 @@
 {
-    "version": "0.2.6.1",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.1/DVIDSHub-Uploader-0.2.6.1.zip",
-    "sha256": "66e1892b3ddb9f8cf73fb46e9dcd6a9152e154e127d3e01e9ffc5636b8ec47e8",
-    "notes": "The message at the top of the window now shows its \"i\" or \"!\" icon instead of a small dot.",
+    "version": "0.2.6.2",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.2/DVIDSHub-Uploader-0.2.6.2.zip",
+    "sha256": "fac507ab7a0badfd2a84ac075acb4efce4fd737689d330c0a244f5bb79eb5462",
+    "notes": "The setup guide no longer asks you to set a Website or review the Developer Agreement when creating your DVIDS API account. The domain goes only in the application's Domains tab.",
     "downloads": {
         "osx-arm64": {
-            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.1/DVIDSHub-Uploader-0.2.6.1.zip",
-            "sha256": "66e1892b3ddb9f8cf73fb46e9dcd6a9152e154e127d3e01e9ffc5636b8ec47e8"
+            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.2/DVIDSHub-Uploader-0.2.6.2.zip",
+            "sha256": "fac507ab7a0badfd2a84ac075acb4efce4fd737689d330c0a244f5bb79eb5462"
         }
     }
 }
