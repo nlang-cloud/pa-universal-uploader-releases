@@ -1,12 +1,12 @@
 {
-    "version": "0.2.6",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6/DVIDSHub-Uploader-0.2.6.zip",
-    "sha256": "74aa98fbfb73e4187997c13049c1e9bc6b1e3787d114ae3cdd97d0f4f736e7d9",
-    "notes": "The app is now called DVIDSHub Uploader. Closing the window during an upload now asks first, and a network timeout no longer shows as \"Upload canceled.\" Countries must match a DVIDS name exactly, and updates now download the right build for Intel or Apple silicon Macs.",
+    "version": "0.2.6.1",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.1/DVIDSHub-Uploader-0.2.6.1.zip",
+    "sha256": "66e1892b3ddb9f8cf73fb46e9dcd6a9152e154e127d3e01e9ffc5636b8ec47e8",
+    "notes": "The message at the top of the window now shows its \"i\" or \"!\" icon instead of a small dot.",
     "downloads": {
         "osx-arm64": {
-            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6/DVIDSHub-Uploader-0.2.6.zip",
-            "sha256": "74aa98fbfb73e4187997c13049c1e9bc6b1e3787d114ae3cdd97d0f4f736e7d9"
+            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.1/DVIDSHub-Uploader-0.2.6.1.zip",
+            "sha256": "66e1892b3ddb9f8cf73fb46e9dcd6a9152e154e127d3e01e9ffc5636b8ec47e8"
         }
     }
 }
