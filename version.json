@@ -1,12 +1,12 @@
 {
-    "version": "0.2.6.2",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.2/DVIDSHub-Uploader-0.2.6.2.zip",
-    "sha256": "fac507ab7a0badfd2a84ac075acb4efce4fd737689d330c0a244f5bb79eb5462",
-    "notes": "The setup guide no longer asks you to set a Website or review the Developer Agreement when creating your DVIDS API account. The domain goes only in the application's Domains tab.",
+    "version": "0.2.6.3",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.3/DVIDSHub-Uploader-0.2.6.3.zip",
+    "sha256": "dd8d3395934d575fb8f1ee8c04c5d75147757e66dfebf13c00780ae129123d50",
+    "notes": "Video uploads use much less CPU, so the Mac stays cooler during long uploads. The progress bar highlight now sweeps a few times when an upload starts instead of running the whole time.",
     "downloads": {
         "osx-arm64": {
-            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.2/DVIDSHub-Uploader-0.2.6.2.zip",
-            "sha256": "fac507ab7a0badfd2a84ac075acb4efce4fd737689d330c0a244f5bb79eb5462"
+            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.3/DVIDSHub-Uploader-0.2.6.3.zip",
+            "sha256": "dd8d3395934d575fb8f1ee8c04c5d75147757e66dfebf13c00780ae129123d50"
         }
     }
 }
