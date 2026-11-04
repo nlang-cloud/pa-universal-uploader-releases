@@ -1,12 +1,12 @@
 {
-    "version": "0.2.6.3",
-    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.3/DVIDSHub-Uploader-0.2.6.3.zip",
-    "sha256": "dd8d3395934d575fb8f1ee8c04c5d75147757e66dfebf13c00780ae129123d50",
-    "notes": "Video uploads use much less CPU, so the Mac stays cooler during long uploads. The progress bar highlight now sweeps a few times when an upload starts instead of running the whole time.",
+    "version": "0.3.0",
+    "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.3.0/DVIDSHub-Uploader-0.3.0.zip",
+    "sha256": "ebb23644ee7c53a6da487fed25f93609059041b0729ddeaf56ca0b4fa63d4169",
+    "notes": "Long uploads now survive connection drops of up to about 10 minutes, and your Mac stays awake until they finish (keep a laptop's lid open). The app password now encrypts your saved Secret API key and DVIDS sign-in. Requires macOS 12 or newer.\nIn Media, Show optional fields gives a photo or video its own Headline, Credit, Caption writer, and location, and the app asks before replacing different details already saved in a photo. Caption writer now also fills Creator and Credit Line in the photo.\nThe Date calendar and suggestion lists are redesigned, and the step numbers are gone from the toolbar and tabs.",
     "downloads": {
         "osx-arm64": {
-            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.2.6.3/DVIDSHub-Uploader-0.2.6.3.zip",
-            "sha256": "dd8d3395934d575fb8f1ee8c04c5d75147757e66dfebf13c00780ae129123d50"
+            "url": "https://github.com/nlang-cloud/pa-universal-uploader-releases/releases/download/v0.3.0/DVIDSHub-Uploader-0.3.0.zip",
+            "sha256": "ebb23644ee7c53a6da487fed25f93609059041b0729ddeaf56ca0b4fa63d4169"
         }
     }
 }
